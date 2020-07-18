@@ -24,13 +24,13 @@ namespace UploadFileUsingDotNETCore
               {
                   options.SwaggerDoc("v1", new OpenApiInfo()
                   {
-                      Title = "KarthikTechBlog Restaurant API",
+                      Title = "Learn Smart Coding - Demo",
                       Version = "V1",
                       Description = "",
                       TermsOfService = new System.Uri("https://karthiktechblog.com/copyright"),
                       Contact = new OpenApiContact()
                       {
-                          Name = "Karthik Kannan KD",
+                          Name = "Learn Smart Coding",
                           Email = "karthiktechblog.com@gmail.com",
                           Url = new System.Uri("http://www.karthiktechblog.com")
                       },
