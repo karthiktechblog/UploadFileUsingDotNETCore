@@ -15,8 +15,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.4.1" />
 
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Sanitized\" />
-  </ItemGroup>
 </Project>
